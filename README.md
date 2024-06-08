@@ -19,7 +19,7 @@ Various utilities for my music setup.
 
 ## Setup
 
-1. Modify and run the `docker-compose.yml` file.
+1. Modify and run the `docker-compose.yml` file. Run `docker compose up`. This will create the config file in `/data/config` for you with the correct keys.
 2. Fill in your Spotify client ID and secret in `./data/config/config.json`.
 3. Edit the `docker-compose.yml` with the commands you want to run.
 
